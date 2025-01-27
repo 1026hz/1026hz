@@ -16,19 +16,16 @@
 - 상명대학교 휴먼지능정보공학전공 재학 <sub>(23.03 ~)</sub>
 - 덕성여자대학교 식품영양학과 졸업 <sub>(18.03 ~ 23.02)</sub>
 <br/>
-<br/>
 
 ## 🧗🏻‍♀️ Activities 
 - 카카오테크 부트캠프 클라우드 네이티브 2기
 - IT 연합 동아리 UMC 7th Spring
-<br/>
 <br/>
 
 ## ✨ Projects
 - ☁️ [CLODY] 오늘 날씨에 딱 맞는 옷차림 추천 서비스 - Server : Spring Boot <sub>(24.09 ~ 24.12)</sub><br/>
 - 💪🏻 [BULK] 365일, 당신의 체중에 습관을 더하다 - Server : Spring Boot <sub>(24.01 ~ )</sub><br/>
 - 🏫 [BAMBOO] 상명대학교 학술 동아리 홈페이지 - Server : Spring Boot <sub>(24.01 ~ )</sub>
-<br/>
 <br/>
 
 ## 🔨 Tech Stack
@@ -68,7 +65,6 @@
 
 </div>
 <br/>
-<br/>
 
 ## 🛠 Tools
 <div style="display:flex;gap:10px;flex-wrap:wrap;">
@@ -83,12 +79,10 @@
 
 </div>
 <br/>
-<br/>
 
 ## 📖 Certification
 - AWS Certified Cloud Practitioner (CLF-C02)
 - TOEIC - 875
-<br/>
 <br/>
 
 ## 💭 Algorithm
