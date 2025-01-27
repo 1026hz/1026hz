@@ -24,8 +24,8 @@
 
 ## ✨ Projects
 - ☁️ [CLODY] 오늘 날씨에 딱 맞는 옷차림 추천 서비스 - Server : Spring Boot <sub>(24.09 ~ 24.12)</sub><br/>
-- 💪🏻 [BULK] 365일, 당신의 체중에 습관을 더하다 - Server : Spring Boot <sub>(24.01 ~ )</sub><br/>
-- 🏫 [BAMBOO] 상명대학교 학술 동아리 홈페이지 - Server : Spring Boot <sub>(24.01 ~ )</sub>
+- 💪🏻 [BULK] 365일, 당신의 체중에 습관을 더하다 - Server : Spring Boot <sub>(25.01 ~ )</sub><br/>
+- 🏫 [BAMBOO] 상명대학교 학술 동아리 홈페이지 - Server : Spring Boot <sub>(25.01 ~ )</sub>
 <br/>
 
 ## 🔨 Tech Stack
