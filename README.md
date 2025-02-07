@@ -28,6 +28,10 @@
 - 🏫 [BAMBOO] 상명대학교 학술 동아리 홈페이지 - Server : Spring Boot <sub>(25.01 ~ )</sub>
 <br/>
 
+## 🏆 Awards
+- 2024년 치앙마이대학 연계 해커톤 프로그램 금상 : Bplook-Pa 환경 보호하면서 앱테크 하기
+- 2024년 SW중심대학사업 인공지능과 클라우드를 활용한 서비스·콘텐츠 활용 사례 공모전 우수상 : 'MM-RAGarchitecture' 기반 실종자 정보 기반 아바타 생성 시스템 제안
+
 ## 🔨 Tech Stack
 #### I use it often.
 <div style="display:flex;gap:10px;flex-wrap:wrap;">
