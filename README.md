@@ -13,7 +13,7 @@
 </a>
 
 ## 🏠 About Me
-- 상명대학교 휴먼지능정보공학전공 재학 <sub>(23.03 ~)</sub>
+- 상명대학교 휴먼지능정보공학전공 재학 - GPA 4.41/4.5 <sub>(23.03 ~)</sub>
 - 덕성여자대학교 식품영양학과 졸업 <sub>(18.03 ~ 23.02)</sub>
 <br/>
 
@@ -23,9 +23,12 @@
 <br/>
 
 ## ✨ Projects
+- 🌠 [Syncly] 실시간 파일·URL 공유 협업 서비스 - 팀장 & Server : AWS, Spring Boot <sub>(25.03 ~ 25.11)</sub><br/>
+- 💬 [KakaoBase] 카카오테크 부트캠프 수강생 전용 커뮤니티 - 팀장 & Server : AWS, Spring Boot <sub>(25.04 ~ 25.08)</sub><br/>
+- 🏫 [BAMBOO] 상명대학교 학술 동아리 홈페이지 - Server : Spring Boot <sub>(25.01 ~ 25.03)</sub><br/>
+- 💪🏻 [BULK] 365일, 당신의 체중에 습관을 더하다 - Server : Spring Boot <sub>(25.01 ~ 25.02)</sub><br/>
 - ☁️ [CLODY] 오늘 날씨에 딱 맞는 옷차림 추천 서비스 - Server : Spring Boot <sub>(24.09 ~ 24.12)</sub><br/>
-- 💪🏻 [BULK] 365일, 당신의 체중에 습관을 더하다 - Server : Spring Boot <sub>(25.01 ~ )</sub><br/>
-- 🏫 [BAMBOO] 상명대학교 학술 동아리 홈페이지 - Server : Spring Boot <sub>(25.01 ~ )</sub>
+
 <br/>
 
 ## 🏆 Awards
@@ -85,6 +88,7 @@
 <br/>
 
 ## 📖 Certification
+- AWS Certified Solutions Architect – Associate (SAA-C03)
 - AWS Certified Cloud Practitioner (CLF-C02)
 - TOEIC - 875
 <br/>
