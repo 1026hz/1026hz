@@ -18,8 +18,10 @@
 <br/>
 
 ## 🧗🏻‍♀️ Activities 
-- 카카오테크 부트캠프 클라우드 네이티브 2기
-- IT 연합 동아리 UMC 7th Spring
+- DEPROMEET Server (IT 연합동아리) 17th
+- AUSG (AWSKRUG University Student Group) 9th
+- KakaoTech Bootcamp Cloud Native 2th
+- UMC Server (IT 연합동아리) 7th
 <br/>
 
 ## ✨ Projects
@@ -90,6 +92,7 @@
 ## 📖 Certification
 - AWS Certified Solutions Architect – Associate (SAA-C03)
 - AWS Certified Cloud Practitioner (CLF-C02)
+- SQLD
 - TOEIC - 875
 <br/>
 
