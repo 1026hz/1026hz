@@ -15,6 +15,8 @@
 <br/>
 
 ### ✨ Projects
+- 🍱 [Code Bento] 고객들이 자신만의 코드 도시락을 작성하여 응답받을 수 있는 서버리스 플랫폼 - Server : Spring Boot <sub>(25.12)</sub><br/>
+- 🚀 [Rocket Lancuher] GitHub 에서 ECS 자동 배포까지, 클릭 한 번으로 끝나는 즐거운 배포 여정 - Server : Spring Boot <sub>(25.11)</sub><br/>
 - 🏃🏻‍♀️ [DorunDorun] 친구와 쌓아가는 러닝 인증 서비스 - Server : AWS, Spring Boot <sub>(25.08 ~ 25.11)</sub><br/>
 - 🌠 [Syncly] 분산된 협업 환경을 통합하는 실시간 플랫폼 - 팀장 & Server : AWS, Spring Boot <sub>(25.03 ~ 25.11)</sub><br/>
 - 💬 [KakaoBase] 카카오테크 부트캠프 수강생 전용 커뮤니티 - 팀장 & Server : AWS, Spring Boot <sub>(25.04 ~ 25.08)</sub><br/>
