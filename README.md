@@ -42,9 +42,10 @@
 
 ### 🔨 Tech Stack
 <div style="display: flex; align-items: flex-start;">
-    <img src="https://skillicons.dev/icons?i=java,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=spring" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=spring,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux" />
     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
 </div>
